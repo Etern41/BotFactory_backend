@@ -33,3 +33,6 @@ media/
 
 # OS files
 .DS_Store
+
+# TODO
+TODO.txt
